@@ -35,6 +35,7 @@ Every entry is one line. Add yours in under 2 minutes.
 ## Productivity
 - [Anki](https://apps.ankiweb.net/) - Free flashcard app with spaced repetition.
 - [Excalidraw](https://excalidraw.com/) - Free virtual whiteboard for sketches and diagrams.
+- [Kilobat Pro for Students](https://kilobat.app/students) - Free Mac network utility for one year on two Macs, renewable while studying with a school email.
 - [Obsidian](https://obsidian.md/) - Free local-first note-taking app.
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor with a free tier.
 - [Zotero](https://www.zotero.org/) - Free reference manager for research and citations.
