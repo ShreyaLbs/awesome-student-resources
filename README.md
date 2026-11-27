@@ -15,6 +15,7 @@ Every entry is one line. Add yours in under 2 minutes.
 - [CS50](https://cs50.harvard.edu/x/) - Free intro to computer science from Harvard.
 - [Khan Academy](https://www.khanacademy.org/) - Free lessons and practice in math, science, and more.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) - Free lecture notes, assignments, and exams from MIT courses.
+- [ModuMath probability lesson in Hindi](https://liascript.github.io/course/?https://raw.githubusercontent.com/lmo0317/modumath-probability-lab/main/hi.md) - Free interactive Hindi exercise on drawing with and without replacement, with an answer key and no login.
 - [NPTEL](https://nptel.ac.in/) - Free engineering and science courses from the IITs and IISc.
 
 ## Coding
